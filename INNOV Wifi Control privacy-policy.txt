@@ -1,0 +1,103 @@
+Privacy Policy for iLink
+
+Last Updated: August 2026
+Effective Date: August 2026
+
+1. App Information
+
+App Name: iLink
+Developer: Tianjin INNOV Tech Co.
+Support Email: microidea@163.com
+
+2. Data Collection and Use
+
+iLink (hereinafter "the App") is the IoT device management and monitoring application for the INNOV brand. It connects INNOV devices through the cloud, displays battery / device runtime data, and sends anomaly alarms. This policy explains how we collect, use, and protect your information.
+
+2.1 Information We Collect
+
+Account Information:
+
+Username and password provided at registration or login (used for account authentication)
+Role information (Operator / Admin / Super Admin)
+Device and Runtime Data:
+
+Device identifier (deviceId), device name, online status, last active time
+Real-time device telemetry: State of Charge (SOC), total voltage, total current, max / min temperature, State of Health (SOH), max / min cell voltage
+Historical device records (used for trend charts)
+Provisioning Information:
+
+Device ID and device password read during Bluetooth provisioning
+WiFi SSID and password you manually enter during BluFi provisioning
+App Usage Data:
+
+App settings and preferences (e.g., language selection, alarm threshold configurations)
+App crash logs and performance data (for improving app stability)
+Device model and operating system version (for compatibility optimization)
+2.2 Information We Do NOT Collect
+
+Personal data such as contacts, photos, SMS, or call logs
+Precise location (except the coarse location permission required by Android for Bluetooth scanning; we do not actively collect your location)
+Payment information or financial data
+3. Purpose of Data Use
+
+The information we collect is used solely for the following purposes:
+
+Core Functionality: Connecting to and managing INNOV devices, and viewing real-time and historical device data through the cloud
+Device Provisioning: Connecting devices to your WiFi network via Bluetooth / BluFi
+Anomaly Alarms: Pushing local notifications when SOC, voltage, temperature, or SOH exceed configured thresholds
+Multi-user Collaboration: Managing sub-accounts and permissions within the account system
+App Improvement: Analyzing crash and performance data to enhance app stability
+4. Data Storage and Protection
+
+4.1 Data Storage
+
+Device telemetry and account data are transmitted through APIs and stored on INNOV's cloud servers for cross-device synchronization and historical queries
+To improve the experience on weak networks, some device lists and history are cached locally on your device (within the app sandbox)
+Device provisioning credentials are used only during provisioning and are not uploaded to the cloud
+4.2 Data Security
+
+Account credentials are transmitted through APIs at login and stored / verified by the server
+Communications use system network and Bluetooth security mechanisms
+Local caches are stored in the app sandbox and cleared when the app is uninstalled
+5. Data Sharing and Disclosure
+
+We commit to:
+
+Not selling, trading, or transferring your personal data to any third parties
+Not sharing data with advertising platforms or data analytics companies
+Disclosing information only when required by law
+6. Permission Usage Explanation
+
+Bluetooth Permission: Used to scan nearby devices, complete WiFi provisioning (BluFi), and read CAN bus data over Bluetooth. This is the core functionality of the app.
+
+Location Permission: Android requires location permission for Bluetooth scanning, used to discover nearby provisionable devices; we do not use it for positioning.
+
+Camera Permission: Used to scan QR codes for quick device binding (QR codes are parsed locally and not uploaded).
+
+Notification Permission: Used to push device anomaly alarms (e.g., overvoltage, over-temperature, low battery) to help you stay informed of device status.
+
+Storage Permission: Used to save CAN bus recordings as files and to manage the local cache.
+
+7. Your Rights
+
+You have the following rights:
+
+Right to Access: View bound devices and runtime data within the app
+Right to Deletion: Clear the local cache by uninstalling the app; server-stored device data can be deleted upon request to us
+Right to Control: Revoke Bluetooth, location, camera, notification, or storage permissions at any time in your device's system settings
+8. Children's Privacy
+
+Our app is not directed at children under the age of 13, and we do not knowingly collect personal information from children.
+
+9. Policy Updates
+
+We may update this Privacy Policy from time to time. When we do, we will notify you within the app and update the "Last Updated" date.
+
+10. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
+
+Email: microidea@163.com
+Response Time: We will respond to your inquiry within 3 business days
+
+© 2026 Tianjin INNOV Tech Co., Ltd. All rights reserved.
