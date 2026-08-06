@@ -20,7 +20,7 @@ INNOV IoT application for managing and monitoring INNOV smart devices over the c
 - Bluetooth: FlutterBluePlus / 蓝牙库：FlutterBluePlus
 - Backend: REST API (device telemetry & accounts) / 后端：REST 接口（设备遥测与账户）
 - Local network: TCP socket communication / 局域网：TCP Socket 通信
-- Supported OS: iOS 13.0+ / Android / 支持系统：iOS 13.0+ / Android
+- Supported OS: iOS 16.0+ / Android / 支持系统：iOS 16.0+ / Android
 
 ## Contact Support / 联系支持
 Email: microidea@163.com / 邮箱：microidea@163.com
