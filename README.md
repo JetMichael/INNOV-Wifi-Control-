@@ -1,4 +1,4 @@
-## iLink / iLink 控制
+## iiLink / iiLink 控制
 
 App Description / 应用描述
 INNOV IoT application for managing and monitoring INNOV smart devices over the cloud. View real-time battery / BMS telemetry, receive threshold-based alarms, provision devices via Bluetooth or BluFi, and communicate with devices over WiFi.
