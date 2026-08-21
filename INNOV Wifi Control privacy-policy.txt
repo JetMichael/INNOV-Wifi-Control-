@@ -1,17 +1,17 @@
-Privacy Policy for iLink
+Privacy Policy for iiLink
 
 Last Updated: August 2026
 Effective Date: August 2026
 
 1. App Information
 
-App Name: iLink
+App Name: iiLink
 Developer: Tianjin INNOV Tech Co.
 Support Email: microidea@163.com
 
 2. Data Collection and Use
 
-iLink (hereinafter "the App") is the IoT device management and monitoring application for the INNOV brand. It connects INNOV devices through the cloud, displays battery / device runtime data, and sends anomaly alarms. This policy explains how we collect, use, and protect your information.
+iiLink (hereinafter "the App") is the IoT device management and monitoring application for the INNOV brand. It connects INNOV devices through the cloud, displays battery / device runtime data, and sends anomaly alarms. This policy explains how we collect, use, and protect your information.
 
 2.1 Information We Collect
 
