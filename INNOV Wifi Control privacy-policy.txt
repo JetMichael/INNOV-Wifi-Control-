@@ -6,7 +6,7 @@ Effective Date: August 2026
 1. App Information
 
 App Name: iiLink
-Developer: Tianjin INNOV Tech Co.
+Developer: INNOV Technologies Company Ltd
 Support Email: microidea@163.com
 
 2. Data Collection and Use
@@ -83,11 +83,11 @@ Storage Permission: Used to save CAN bus recordings as files and to manage the l
 You have the following rights:
 
 Right to Access: View bound devices and runtime data within the app
-Right to Deletion: Clear the local cache by uninstalling the app; server-stored device data can be deleted upon request to us
+Right to Deletion: You can delete your account at any time within the app (Settings -> Delete Account); deletion will permanently erase your account and all associated server-side data. You may also clear the local cache by uninstalling the app.
 Right to Control: Revoke Bluetooth, location, camera, notification, or storage permissions at any time in your device's system settings
 8. Children's Privacy
 
-Our app is not directed at children under the age of 13, and we do not knowingly collect personal information from children.
+Our app is not directed at children under the age of 13 (or the minimum age in your jurisdiction), and we do not knowingly collect personal information from children.
 
 9. Policy Updates
 
@@ -100,4 +100,4 @@ If you have any questions, concerns, or requests regarding this Privacy Policy, 
 Email: microidea@163.com
 Response Time: We will respond to your inquiry within 3 business days
 
-© 2026 Tianjin INNOV Tech Co., Ltd. All rights reserved.
+© 2026 INNOV Technologies Company Ltd All rights reserved.
