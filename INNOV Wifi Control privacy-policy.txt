@@ -1,6 +1,6 @@
 Privacy Policy for iiLink
 
-Last Updated: August 2026
+Last Updated: October 2026
 Effective Date: August 2026
 
 1. App Information
@@ -27,7 +27,7 @@ Historical device records (used for trend charts)
 Provisioning Information:
 
 Device ID and device password read during Bluetooth provisioning
-WiFi SSID and password you manually enter during BluFi provisioning
+WiFi SSID and password you manually enter, or that the App automatically reads on iOS after your authorization, during BluFi provisioning
 App Usage Data:
 
 App settings and preferences (e.g., language selection, alarm threshold configurations)
@@ -36,7 +36,7 @@ Device model and operating system version (for compatibility optimization)
 2.2 Information We Do NOT Collect
 
 Personal data such as contacts, photos, SMS, or call logs
-Precise location (except the coarse location permission required by Android for Bluetooth scanning; we do not actively collect your location)
+Precise GPS coordinates: We do not collect or upload your GPS coordinates. However, on iOS, to read the name (SSID) of the WiFi network you are currently connected to for automatic provisioning, the App requests "While Using the App" precise location permission. This permission is used only to obtain the WiFi name and is not used for tracking or uploaded anywhere.
 Payment information or financial data
 3. Purpose of Data Use
 
@@ -70,7 +70,7 @@ Disclosing information only when required by law
 
 Bluetooth Permission: Used to scan nearby devices, complete WiFi provisioning (BluFi), and read CAN bus data over Bluetooth. This is the core functionality of the app.
 
-Location Permission: Android requires location permission for Bluetooth scanning, used to discover nearby provisionable devices; we do not use it for positioning.
+Location Permission: On Android, it is used for Bluetooth scanning to discover nearby provisionable devices. On iOS, it is used to read the name (SSID) of your currently connected WiFi network to auto-fill provisioning. We do not use location for tracking and do not upload any location data.
 
 Camera Permission: Used to scan QR codes for quick device binding (QR codes are parsed locally and not uploaded).
 
